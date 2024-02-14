@@ -1,0 +1,91 @@
+# notes
+daily update about the classes
+
+      
+DATE: 14/02/2024
+
+Today Notes:
+
+RAM:
+  RAM is a primary storage.
+  types:
+        static RAM - it is faster than Dynamic RAM
+        Dynamic RAM
+    these are volatile memory.
+
+Microprocessors:
+  it is contain the processes only.
+
+Buses:
+  it is used to transfer the datas 
+  Types:
+      I-bus - Instruction bus
+      D-bus - Data bus
+      S-bus - System bus
+
+Peripheral:
+  it is used to communicate to the outside enviornment.
+  it is send by using system bus
+
+Microcontroller:
+  it is contain I/O,CPU
+
+ Bit-wise Operators:
+      AND (&&)
+      OR (||)  
+      NOT (!)
+AND(&) operator:
+  zero with anything answer is zero.
+  one with one the answer is one.
+  It is like a multiplication.
+OR(||) operator:
+  one with anything answer is one.
+  zero with zero the answer is zero.
+  it is like a addition.
+NOT(!) operator:
+  it is return answer's opposite
+
+Truth table
+ A B AND OR 
+(A & B) (A | B) 
+0 0 0 0 
+0 1 0 1 
+1 0 0 1 
+1 1 1 1 
+
+GPIO - general purpose input output
+  it is used for
+      reading digital signal
+      issuing interurupts
+      generating triggers for external components
+
+GPIO pin:
+    value consist of one of two voltage settings use can program each pin 
+
+GPIO port:
+     many pins join together is called port
+
+Multiplexing:
+    pins act as GPIO,UART etc...
+
+Input buffer:
+    0 is enable to the input buffer
+
+output buffer:
+    1 is enable the output buffer.
+
+IC state:
+    you cannot predict the pin is high/low 
+    this is called IC state.
+
+    used in pull up (or) pull down register to stable the input mode    
+  
+
+
+
+
+
+
+
+
+  
